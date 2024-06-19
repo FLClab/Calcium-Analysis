@@ -1,0 +1,5 @@
+FILE="80-1"
+
+# Copy files from beluga
+scp anbil106@beluga.computecanada.ca:projects/def-flavielc/anbil106/MSCTS-Analysis/testset/raw-input/${FILE}.tif ./data/movie-${FILE}.tif
+scp anbil106@beluga.computecanada.ca:projects/def-flavielc/anbil106/MSCTS-Analysis/testset/StarDist3D/StarDist3D_complete_1-2_44/${FILE}.npz ./data/mask-${FILE}.npz

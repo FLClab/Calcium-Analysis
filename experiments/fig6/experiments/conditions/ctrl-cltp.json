@@ -1,0 +1,14 @@
+{
+    "ctrl-baseline" : [
+        [98, "Baseline2"], [99, "Baseline2"], [101, "Baseline2"], [105, "Baseline2"], [106, "Baseline2"], [111, "Baseline2"], [116, "Baseline2"], [117, "Baseline2"], [122, "Baseline2"], [123, "Baseline2"], [125, "Baseline2"], [130, "Baseline2"], [134, "Baseline2"], [135, "Baseline2"], [252, "Baseline2"], [253, "Baseline2"], [257, "Baseline2"]
+    ],
+    "ctrl-stim" : [
+        [98, "Ctrl-10min"], [99, "Ctrl-10min"], [101, "Ctrl-10min"], [105, "Ctrl-10min"], [106, "Ctrl-10min"], [111, "Ctrl-10min"], [116, "Ctrl-10min"], [117, "Ctrl-10min"], [122, "Ctrl-10min"], [123, "Ctrl-10min"], [125, "Ctrl-10min"], [130, "Ctrl-10min"], [134, "Ctrl-10min"], [135, "Ctrl-10min"], [252, "Ctrl-10min"], [253, "Ctrl-10min"], [257, "Ctrl-10min"]
+    ],
+    "cltp-baseline" : [
+        [94, "Baseline2"], [95, "Baseline2"], [103, "Baseline2"], [104, "Baseline2"], [109, "Baseline2"], [110, "Baseline2"], [112, "Baseline2"], [114, "Baseline2"], [120, "Baseline2"], [121, "Baseline2"], [127, "Baseline2"], [128, "Baseline2"], [131, "Baseline2"], [132, "Baseline2"], [138, "Baseline2"], [160, "Baseline2"], [165, "Baseline2"], [169, "Baseline2"], [173, "Baseline2"], [177, "Baseline2"], [180, "Baseline2"], [186, "Baseline2"], [189, "Baseline2"], [191, "Baseline2"], [193, "Baseline2"], [198, "Baseline2"], [208, "Baseline2"], [211, "Baseline2"], [212, "Baseline2"], [215, "Baseline2"], [220, "Baseline2"], [227, "Baseline2"], [246, "Baseline2"], [249, "Baseline2"], [256, "Baseline2"], [261, "Baseline2"], [267, "Baseline2"], [269, "Baseline2"]
+    ],
+    "cltp-stim" : [
+        [94, "cLTP-10min"], [95, "cLTP-10min"], [103, "cLTP-10min"], [104, "cLTP-10min"], [109, "cLTP-10min"], [110, "cLTP-10min"], [112, "cLTP-10min"], [114, "cLTP-10min"], [120, "cLTP-10min"], [121, "cLTP-10min"], [127, "cLTP-10min"], [128, "cLTP-10min"], [131, "cLTP-10min"], [132, "cLTP-10min"], [138, "cLTP-10min"], [160, "cLTP-10min"], [165, "cLTP-10min"], [169, "cLTP-10min"], [173, "cLTP-10min"], [177, "cLTP-10min"], [180, "cLTP-10min"], [186, "cLTP-10min"], [189, "cLTP-10min"], [191, "cLTP-10min"], [193, "cLTP-10min"], [198, "cLTP-10min"], [208, "cLTP-10min"], [211, "cLTP-10min"], [212, "cLTP-10min"], [215, "cLTP-10min"], [220, "cLTP-10min"], [227, "cLTP-10min"], [246, "cLTP-10min"], [249, "cLTP-10min"], [256, "cLTP-10min"], [261, "cLTP-10min"], [267, "cLTP-10min"], [269, "cLTP-10min"]
+    ]    
+}

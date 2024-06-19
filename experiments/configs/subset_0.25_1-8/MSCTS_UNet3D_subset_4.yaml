@@ -1,0 +1,36 @@
+dataset: 'data/80-20_calcium_dataset.h5'
+model_config:
+  first_kernel_size: 3
+  inC: 1
+  n_layer: 5
+  nbf: 8
+  outC: 1
+  r: 1
+  use_batch_norm: true
+  use_leaky_relu: true
+project: ATD
+root: data/baselines/UNet3D/models
+seed: 45
+training_config:
+  batch_size: 128
+  drop_last: false
+  inference_batch_size: 4
+  num_steps: 100000
+  num_workers: 10
+  optimizer:
+  - adam
+  - betas: !!python/tuple
+    - 0.9
+    - 0.999
+    lr: 0.0002
+  valid_interval: 100
+  weighted_loader: false
+  train_folds: !!python/list
+    - "train"
+  valid_folds: !!python/list
+    - "valid"
+  samples_pu:
+    path: configs/training-samples_subset.json
+    positive: subset-0.25-4
+    unlabeled: 8
+type: unet3d
