@@ -24,6 +24,14 @@ git clone https://github.com/FLClab/Calcium-Analysis.git
 cd CalciumAnalysis/experiments
 ```
 
+Create a virtual environment and install the required packages 
+```bash
+python --version # make sure you have Python 3.8
+python -m venv calcium-env # create a virtual environment named 'calcium-env`
+source ./calcium-env/bin/activate # activate the environment
+pip install -r requirements.txt # install required packages
+```
+
 # Documentation
 ## 3D U-Net and StarDist-3D for mSCT segmentation
 ### Datasets
