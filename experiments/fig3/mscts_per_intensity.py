@@ -117,8 +117,8 @@ def compute_bins(intensities: list) -> None:
     plt.xlabel('Intensity')
     plt.ylabel('# mSCTs')
     plt.xticks(ticks=x, labels=xlabels)
-    fig.savefig("./figures/TPFPFN_matrices/all_msct_inensities.png")
-    fig.savefig("./figures/TPFPFN_matrices/all_msct_inensities.pdf", transparent=True, bbox_inches='tight')
+    fig.savefig("./figures/TPFPFN_matrices/all_msct_intensities.png")
+    fig.savefig("./figures/TPFPFN_matrices/all_msct_intensities.pdf", transparent=True, bbox_inches='tight')
 
 def main():
     intensities = get_mscts()
