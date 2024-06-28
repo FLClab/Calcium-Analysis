@@ -1,0 +1,10 @@
+model-name: "stardist_complete_1-4"
+# random-state: 42 # in principle not used anymore as seed args
+train-folds:
+  - train
+valid-folds:
+  - valid
+samples_pu:
+  path: configs/training-samples_complete.json
+  positive: complete
+  unlabeled: 4

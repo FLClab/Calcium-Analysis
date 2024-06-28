@@ -1,0 +1,10 @@
+model-name: "stardist_subset-0.25_1-1"
+# random-state: 42 # in principle not used anymore as seed args
+train-folds:
+  - train
+valid-folds:
+  - valid
+samples_pu:
+  path: configs/training-samples_subset.json
+  positive: subset-0.25-2
+  unlabeled: 1
