@@ -78,12 +78,12 @@ The steps to train the 3D U-Net model are as follows:
 python train.py --config configs/subset_0.25_1-0/MSCTS_UNet3D_subset_0.yml
 ```
 
-1. Optimize the segmentation threshold
+2. Optimize the segmentation threshold
 ```bash
 python optimize-segmentation.py --model <NAMEOFMODEL>
 ```
 
-1. Predict the segmentation masks on the testing dataset
+3. Predict the segmentation masks on the testing dataset
 ```bash
 python predict.py --model <NAMEOFMODEL>
 ```
@@ -98,12 +98,12 @@ The steps to train the StarDist-3D model are as follows:
 python train.py --config configs/subset_0.25_1-0/MSCTS_StarDist3D_subset_0.yml
 ```
 
-1. Optimize the segmentation threshold
+2. Optimize the segmentation threshold
 ```bash
 python optimize.py --model <NAMEOFMODEL>
 ```
 
-1. Predict the segmentation masks on the testing dataset
+3. Predict the segmentation masks on the testing dataset
 ```bash
 python predict.py --model <NAMEOFMODEL>
 ```
