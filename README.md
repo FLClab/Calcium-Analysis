@@ -31,11 +31,11 @@ The time required to train the models depends on the dataset size and the number
 The source code was tested on Linux - CentOS 7
 
 #### Python dependencies 
-The source code was tested on Python 3.8.10. All required libraries are listed in the provided `requirements.txt` file.
+The source code was tested on Python 3.8.10 and 3.11.5. The required python installation should be `python>=3.8`. All required libraries are listed in the provided `experiments/requirements.txt` file.
 
 ## Installation
 
-### Colab notebook
+### Colab notebook (recommended)
 
 The provided Colab notebook is the easiest way to use the pre-trained models and to train the models on your own calcium videos. All dependencies are already installed in the notebook. The notebook is available [here](https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb).
 
