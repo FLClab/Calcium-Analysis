@@ -37,6 +37,10 @@ The source code was tested on Python 3.8.10 and 3.11.5. The required python inst
 
 ### Colab notebook (recommended)
 
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 The provided Colab notebook is the easiest way to use the pre-trained models and to train the models on your own calcium videos. All dependencies are already installed in the notebook. The notebook is available [here](https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb).
 
 ### From source
