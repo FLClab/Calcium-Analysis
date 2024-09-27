@@ -66,6 +66,10 @@ In the manuscript, two deep learning models were evaluated for the segmentation 
 
 ### Training and testing on your own calcium videos (Colab notebook)
 
+<a target="_blank" href="https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 The most simple way to train and test the models on your own calcium videos is to use the provided Colab notebook. The notebook is available [here](https://colab.research.google.com/github/FLClab/Calcium-Analysis/blob/main/CalciumUNet3D_ZeroCostDL4Mic.ipynb).
 
 The notebook provides a step-by-step guide on how to train and test the 3D U-Net model on your own calcium videos. The notebook also provides a guide on how to use the pre-trained models to segment mSCTs in your own calcium videos.
