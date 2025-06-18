@@ -152,12 +152,14 @@ The testing dataset is also available for download [here](https://s3.valeria.sci
 If you use this code or the provided datasets, please cite the following paper:
 
 ```bibtex
-@article{beaupre2024quantitative,
-  title={Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning},
+@article{beaupre2025quantitative,
+  title={Quantitative analysis of miniature synaptic calcium transients using positive unlabeled deep learning},
   author={Beaupr{\'e}, Fr{\'e}d{\'e}ric and Bilodeau, Anthony and Wiesner, Theresa and Leclerc, Gabriel and Lemieux, Mado and Nadeau, Gabriel and Castonguay, Katrine and Fan, Bolin and Labrecque, Simon and Hlo{\v{z}}ek, Ren{\'e}e and others},
-  journal={bioRxiv},
-  pages={2024--07},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
+  journal={Digital Discovery},
+  volume={4},
+  number={1},
+  pages={105--119},
+  year={2025},
+  publisher={Royal Society of Chemistry}
 }
 ```
