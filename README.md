@@ -2,6 +2,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18561819.svg)](https://doi.org/10.5281/zenodo.18561819)
+
 # Calcium Analysis
 
 This is the official repository for the paper **Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning**.
